@@ -1,3 +1,7 @@
+# Spotify-Redesign
+
+![spotify-redesign](https://user-images.githubusercontent.com/100989693/202890367-a6f49c58-10bb-4e07-a37d-cffb7d5ed2b5.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
